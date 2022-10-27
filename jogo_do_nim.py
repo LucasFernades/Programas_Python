@@ -99,4 +99,3 @@ print ( '1 - para jogar uma partida isolada' )
 tipoDePartida  =  int ( input ( 'Digite 1 para inciar' ))
 tipoDePartida  ==  1 
 print ()
-partida()
